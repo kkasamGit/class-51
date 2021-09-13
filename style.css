@@ -1,0 +1,33 @@
+h1 {
+    color: #E9EAE0;
+}
+
+* {
+    border: solid;
+}
+
+.fullpage {
+    background-color: #b9a79f;
+}
+
+.header {
+   background-color: #B1B99F;
+   display : flex;
+   justify-content: space-between;
+}
+
+.grid {
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display : flex;
+    justify-content: space-evenly;
+    background-color: #63614E;
+}
+
+p,h2 {
+    text-align: center;
+}
